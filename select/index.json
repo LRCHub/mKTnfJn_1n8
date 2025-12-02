@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "近頃",
+  "base_artist": "Bialystocks",
+  "createdAt": "2025-12-02T07:15:14.055144Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "近頃",
+      "artist": "Bialystocks",
+      "has_synced": false,
+      "path": "select/pl_01_近頃_Bialystocks.txt"
+    }
+  ]
+}
